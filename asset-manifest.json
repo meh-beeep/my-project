@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-project/static/css/main.d748494a.css",
+    "main.js": "/my-project/static/js/main.42ac4e72.js",
+    "static/media/halo-headlight.jpg": "/my-project/static/media/halo-headlight.fa3f3fbef8991a8a09b1.jpg",
+    "static/media/firestorm-exhustpipe.jpg": "/my-project/static/media/firestorm-exhustpipe.4ac87dc6b00d1c00151f.jpg",
+    "static/media/bmw-caferace-tank.jpg": "/my-project/static/media/bmw-caferace-tank.c61923c80e10b838c92e.jpg",
+    "static/media/motogadget-speedometer.jpg": "/my-project/static/media/motogadget-speedometer.0083352caf036fe9ac1a.jpg",
+    "static/media/SparkyStonesRegular.ttf": "/my-project/static/media/SparkyStonesRegular.76099dbb90b1ebae5694.ttf",
+    "static/media/Ducati-leather-seat.jpg": "/my-project/static/media/Ducati-leather-seat.019cb9b0cdc320b4b1d7.jpg",
+    "index.html": "/my-project/index.html",
+    "main.d748494a.css.map": "/my-project/static/css/main.d748494a.css.map",
+    "main.42ac4e72.js.map": "/my-project/static/js/main.42ac4e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d748494a.css",
+    "static/js/main.42ac4e72.js"
+  ]
+}
